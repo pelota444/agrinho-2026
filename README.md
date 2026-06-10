@@ -1,12 +1,3 @@
-📚 Informações do Projeto
-
-Nome do Projeto: Agro Sustentável
-Programa: Agrinho
-Professora: Regiane
-Aluno(a): ____________________
-Turma: ____________________
-Ano: 2026
-
 🌱 Sobre o Projeto
 
 O site Agro Sustentável foi desenvolvido com o objetivo de conscientizar as pessoas sobre a importância da sustentabilidade no meio ambiente e no agronegócio. O projeto apresenta informações sobre práticas sustentáveis que ajudam a preservar os recursos naturais, aumentar a produtividade agrícola e promover o desenvolvimento sustentável.
